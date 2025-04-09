@@ -49,7 +49,9 @@ Choose Difficulty Level:
 2. Medium (1-100, 7 attempts)
 3. Hard (1-200, 5 attempts)
 Enter your choice (1-3): 
+
 ...
+
 ✅ Features
 Multiple difficulty levels
 
@@ -61,28 +63,3 @@ Win/loss tracking
 
 Replayability
 
-📁 File Structure
-bash
-Copy
-Edit
-number-guessing-game-java/
-│
-├── NumberGuessingGame.java   # Main game logic
-├── README.md                 # Project documentation
-🧠 Concepts Used
-Java basics: variables, loops, conditionals
-
-Scanner and Random classes
-
-User input handling
-
-Console output
-
-Game logic design
-
-🛠️ Improvements To Consider
-Add score saving across sessions
-
-Add a GUI version (e.g., using Swing or JavaFX)
-
-Add difficulty scaling based on performance
